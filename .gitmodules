@@ -1,0 +1,7 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:aaron2198/viddler-blog-ui.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:aaron2198/viddler-blog-ui.git
+
